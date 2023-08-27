@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
+  repository: vinay052/cicd
   tag: latest
   pullPolicy: IfNotPresent
 
